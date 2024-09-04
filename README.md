@@ -1,4 +1,4 @@
-##Proof of Signatures (POSIG)
+## Proof of Signatures (POSIG)
  ### Introduction: Democratizing Blockchain with Proof of Signatures (POSIG)
 
 The emergence of Proof of Stake (PoS) has revolutionized blockchain technology by enabling token holders to create new blocks based on their staked tokens. However, an innovative concept called Proof of Signatures (POSIG) aims to further democratize the blockchain ecosystem and redistribute control from those with substantial token wealth towards trusted community members. POSIG ensures that the creation of new blocks is determined by legitimate users who have garnered significant community support, rather than mere economic stakeholders.
